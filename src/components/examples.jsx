@@ -16,7 +16,7 @@ export default function Examples() {
                 <div>
                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A look at the artist.</h2>
                     <p className="mt-4 text-gray-500">
-                        At Kesha Cloud Session, we believe your hair is a reflection of your personality and style. Whether you're looking for a bold new look, a touch of maintenance, or a transformation that turns heads, Kesha is here to bring your vision to life.
+                        At Kesha Cloud Session, we believe your hair is a reflection of your personality and style. Whether you&apos;re looking for a bold new look, a touch of maintenance, or a transformation that turns heads, Kesha is here to bring your vision to life.
                     </p>
 
                     <dl className="mt-16 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8">
